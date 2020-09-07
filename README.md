@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub repository, where you can have a look at the projects I've been working on.
+
+I am an Graduate from the University of Auckland, Majoring in Computer Science and Information Systems. I am currently pursuing my Honours degree in Computer Science at the University of Auckland
+
+I love problem solving and programming, which is what lead to my interest in the development field of work. I am also good at coming up with creative solutions and work well in a team.
+
 <!--
 **Frosty273/Frosty273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Frosty273)](https://github.com/anuraghazra/github-readme-stats)
